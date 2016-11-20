@@ -3,4 +3,5 @@
 void main(){
     print("Hello World");
     print("Thanks and bye");
+    print("Good Bye");
 }
